@@ -119,7 +119,7 @@
 119: Hai trovato la Corazza Rossa![2]Ti protegge ancora meglio[3]della Corazza Blu!
 120: Grande!  La spada è più forte![2]Senti un'immensa potenza[3]scorrerti nel corpo!
 121: Hai trovato lo Scudo Specchio![2]Ora puoi riflettere i raggi[3]che il tuo vecchio scudo[Waitkey][Scroll]non poteva bloccare!
-122: Hai il Bastone di Bryna![2]Se lo agiti una volta, un anello[3]di luce ti proteggerà!
+122: Hai il Bastone di Byrna![2]Se lo agiti una volta, un anello[3]di luce ti proteggerà!
 123: Eh?  E' chiuso a chiave![2]Se avessi la Grande Chiave,[3]forse potresti aprirlo!
 124: Non hai abbastanza Magia![2]Ora non puoi usare l'oggetto.[3]Controlla la tua Magia!
 125: Ti dà i Calzari di[2]Pegaso!  Ora puoi eseguire un[3]devastante attacco in corsa![Waitkey][Scroll](Tieni premuto il pulsante [A][Scroll]per un attimo.)
@@ -268,8 +268,8 @@
 268: Ricorda, hai promesso[...][2]Non dirlo a nessuno.
 269: Bene, porta qui quello[2]scrigno[...]  Sul serio, non[3]dirlo a nessuno.
 270: [Waves][Snake][Waves][Snake][Waves][Snake][Waves][Snake][Waves][Snake][Waves][Waves][Waves][Snake][2][Waves][Ankh][Snake][Snake][Ankh][Waves][Ankh][Snake][Waves][Ankh][Snake][Waves][Ankh][Snake][Waves][Ankh][3][Waves][Snake][Waves][Snake][Waves][Snake][Waves][Ankh][Waves][Ankh]
-271: Solleva la Spada Suprema e[2]otterrai la magia[3]Etere.
-272: Solleva la Spada Suprema e[2]otterrai la magia[3]Bombos.
+271: Solleva la Spada Suprema e[2]otterrai la[3]Magia dell'Etere.
+272: Solleva la Spada Suprema e[2]otterrai la[3]Magia della Fiamma.
 273: Ehi!  Maledetto te, che mi hai[2]svegliato dal mio sonno oscuro![3][...]Cioè, grazie mille, signore![Waitkey][Scroll]Ma ora mi vendicherò[Scroll]di te.  Preparati![Scroll][...]Ehm, ti va bene,[Waitkey][Scroll]signore?
 274: Eh eh eh!  Rido della tua[2]sventura!  Da ora la Magia che[3]consumi si dimezzerà![Waitkey][Scroll]Congratulazioni![Scroll]Ora fai del tuo meglio, anche se[Scroll]sono sicuro che non basterà![Waitkey][Scroll]Buona giornata!  Ciao!
 275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]Tanto tempo fa, nel bellissimo[2]regno di Hyrule, circondato[3]da monti e foreste[...][Wait 09][Scroll]le leggende narravano della[Scroll]Triforza, potere supremo che[Scroll]dimorava in una terra nascosta.[Wait 09][NextPic][NextPic][Scroll]Molti cercarono con ardore[Scroll]di entrare nella nascosta[Scroll]Terra d'Oro[...][Wait 07][Scroll]Ma nessuno fece mai ritorno.[Scroll]Un giorno dalla Terra d'Oro[Scroll]iniziò a fluire il male[...][Wait 07][Scroll]Così il Re ordinò ai Sette[Scroll]saggi di sigillare l'accesso[Scroll]alla Terra della Triforza.[Wait 09][NextPic][NextPic][Scroll]Quel sigillo sarebbe dovuto[Scroll]durare in eterno[...][Scroll][Wait 09][NextPic][NextPic][Scroll][...]  [...]Ma quando questi eventi[Scroll]furono avvolti dalle nebbie[Scroll]del tempo, divennero leggenda[...]
