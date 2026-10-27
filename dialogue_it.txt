@@ -44,7 +44,7 @@
 44: Oh, sei tu, [Name]. Cosa[2]posso fare per te?[3]L'anziano? Ah, se n'è[Waitkey][Scroll]andato di casa da quando[Scroll]il sacerdote ha cominciato[Scroll]a raccogliere sacrifici[...][Waitkey][Scroll][...]   [...]   [...][Scroll]Cosa? La Spada Suprema, dici?[Scroll]I dettagli li ho dimenticati,[Waitkey][Scroll]ma[...]
 45: Molto, molto tempo fa, in[2]questa terra prosperava un[3]popolo chiamato Hylia[...][Waitkey][Scroll]Si dice che in questo regno[Scroll]siano nascosti alcuni tesori[Scroll]lasciati da quel popolo[...][Waitkey][Scroll]Tra questi c'è la Spada[Scroll]Suprema, una spada forgiata[Scroll]apposta contro chi possiede[Waitkey][Scroll]il potere del male. Ancora[Scroll]oggi dovrebbe riposare in[Scroll]silenzio nel cuore della[Waitkey][Scroll]foresta[...] [...] [...][Scroll]Hai capito la leggenda?[Scroll]    > Sì[Scroll]       Per niente[Choose]
 46: Comunque, cerca l'anziano.[2]Qualcuno al villaggio saprà[3]dove si trova. Spero che tu[Waitkey][Scroll]lo trovi presto. [Name],[Scroll]va' con prudenza[...]
-47: Oh, [Name]! Che bel giovanotto[2]sei diventato. Ti prego,[3]salva noi del villaggio.
+47: Oh, [Name]! Che bel ragazzo[2]sei diventato. Ti prego,[3]salva noi del villaggio.
 48: Ehi! Ecco [Name], il[2]ricercato! Soldati! Qualcuno![3]Venite, presto!
 49: Mmm[...] Finalmente hai[2]raccolto i tre Amuleti![3]E' ora di andare nel Bosco[Waitkey][Scroll]Perduto. Se hai davvero[Scroll]coraggio, sarà la spada[Scroll]stessa a sceglierti[...]
 50: Non ho più l'età per lottare.[2]Ogni mia speranza è in te[...]
@@ -110,7 +110,7 @@
 110: Hai i Bracciali del Titano![2]Ora puoi sollevare anche le[3]pietre nere, prima troppo[Waitkey][Scroll]pesanti!
 111: Hai ricevuto lo Specchio[2]Magico! Uno specchio azzurro,[3]limpido e bellissimo[...][Waitkey][Scroll]Ti sembra che possa[Scroll]risucchiarti dentro[...]
 112: Ecco!  La Spada Suprema![2][...]  [...]  [...][3]No, non è questa[...] Peccato.
-113: [Window 02][Speed 03]Da qualche parte risuona[2]la voce dell'anziano[3]Sahasrahla[...] [...] [...][Waitkey][Scroll][Name], hai ottenuto la Spada[Scroll]Suprema, la spada che scaccia[Scroll]il male. Il suo splendore è[Waitkey][Scroll]la tua stessa forza. Con[Scroll]quella spada potrai spezzare[Scroll]la magia del sacerdote![Waitkey][Scroll]Il destino del regno è nelle[Scroll]tue mani. Conto su di te,[Scroll][Name][...]
+113: [Window 02][Speed 03]Da qualche parte risuona[2]la voce dell'anziano[3]Sahasrahla[...] [...] [...][Waitkey][Scroll][Name], hai ottenuto la[Scroll]Spada Suprema, che scaccia[Scroll]il male. Il suo splendore è[Waitkey][Scroll]la tua stessa forza. Con[Scroll]quella spada potrai spezzare[Scroll]la magia del sacerdote![Waitkey][Scroll]Il destino del regno è nelle[Scroll]tue mani. Conto su di te,[Scroll][Name][...]
 114: Eh eh! Ottimo. Questa è la[2]Pozione Vita. Bevila per[3]recuperare energia.
 115: Eh eh! Ottimo. Questa è la[2]Pozione Magica. Bevila per[3]recuperare la Magia.
 116: Eh eh! Ottimo. Questa è la[2]Pozione Curatutto. Bevila per[3]recuperare energia e Magia.
