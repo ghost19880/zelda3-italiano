@@ -54,19 +54,19 @@
 54: [Window 02][Speed 03][Name], senti la voce[2]di Sahasrahla? Il mondo in[3]cui ti trovi un tempo era[Waitkey][Scroll]la Terra d'Oro[...] Ma ora è[Scroll]un mondo infestato dai[Scroll]demoni, il Mondo delle[Waitkey][Scroll]Tenebre. Il sacerdote ha[Scroll]spezzato il sigillo e, al[Scroll]castello, ha aperto un varco[Waitkey][Scroll]tra le Tenebre e il nostro[Scroll]mondo. Per salvarlo non resta[Scroll]che riprendere la Triforza![Waitkey][Scroll]Salva le sette fanciulle,[Scroll]hanno il sangue dei Sette[Scroll]saggi e il loro potere ti[Waitkey][Scroll]sarà di certo utile! Ognuna[Scroll]è rinchiusa nel covo di un[Scroll]mostro. Va' prima al Palazzo[Waitkey][Scroll]Cupo![Sound 45] Posso contare[Scroll]solo su di te[...] Esaudisci[Scroll]il desiderio di Sahasrahla![Waitkey][Scroll]Conto su di te, [Name].
 55: [Window 02][Speed 03]Ma in quella forma non potrai[2]fare molto. Cerca la Perla[3]Lunare nella torre sul Monte[Waitkey][Scroll]Morte. Protegge dalla magia[Scroll]del Mondo delle Tenebre, così[Scroll]manterrai il tuo aspetto da[Waitkey][Scroll]eroe.
 56: Nella grotta a est del Lago[2]Hylia è nascosto qualcosa[3]che ti sarà d'aiuto. Va' a[Waitkey][Scroll]prenderlo.
-57: Oh, dunque hai ottenuto[2]l'Amuleto del Coraggio[...][3]Allora ti racconterò ciò che[Waitkey][Scroll]so. Tanto tempo fa, c'era una[Scroll]stirpe che proteggeva la[Scroll]famiglia reale di Hyrule.[Waitkey][Scroll]Erano chiamati Cavalieri e[Scroll]custodivano l'Amuleto del[Scroll]Coraggio. Ma quando i Sette[Waitkey][Scroll]saggi posero il sigillo, quasi[Scroll]tutti perirono combattendo[Scroll]contro i demoni.[Waitkey][Scroll]Da quella stirpe di Cavalieri[Scroll]dovrebbe nascere un eroe[...][Scroll][...] Bene, [Name], ho fiducia[Waitkey][Scroll]in te. Trova gli altri[Scroll]Amuleti. E prendi questo.[Scroll]E' un tesoro tramandato da[Waitkey][Scroll]noi discendenti dei saggi.[Scroll]Voglio che lo abbia tu.
-58: Proprio così, io sono[2]Sahasrahla, l'anziano del[3]villaggio e discendente dei[Waitkey][Scroll]Sette saggi. [...] Davvero?[Scroll][Name], mi stupisce che un[Scroll]giovane come te cerchi la[Waitkey][Scroll]spada che scaccia il male.[Scroll]Non tutti possono impugnarla.[Scroll]Una leggenda narra che solo[Waitkey][Scroll]l'Eroe che sconfiggerà tre[Scroll]grandi mostri e otterrà i tre[Scroll]Amuleti ne diverrà padrone.[Waitkey][Scroll]Ah, vedo che hai già[Scroll]l'Amuleto del Coraggio.[Scroll]Allora lascia che ti racconti[Waitkey][Scroll]una storia. Tanto tempo fa,[Scroll]una stirpe di guerrieri[Scroll]proteggeva la famiglia reale.[Waitkey][Scroll]Erano i Cavalieri, custodi[Scroll]dell'Amuleto del Coraggio.[Scroll]Quando i Sette saggi posero[Waitkey][Scroll]il sigillo, quasi tutti[Scroll]perirono combattendo[Scroll]contro i demoni.[Waitkey][Scroll]Ma si dice che dai loro[Scroll]discendenti nascerà un Eroe.[Scroll][...] Capisco. Devi essere tu[Waitkey][Scroll]quell'Eroe. Va' a prendere[Scroll]gli altri Amuleti. E prendi[Scroll]anche questo. E' un tesoro[Waitkey][Scroll]tramandato da generazioni[Scroll]nella mia famiglia.
+57: Oh, dunque hai ottenuto[2]l'Amuleto del Coraggio[...][3]Allora ti racconterò ciò che[Waitkey][Scroll]so. Tanto tempo fa, c'era una[Scroll]stirpe che proteggeva il[Scroll]Regno di Hylia.[Waitkey][Scroll]Erano chiamati Cavalieri e[Scroll]custodivano l'Amuleto del[Scroll]Coraggio. Ma quando i Sette[Waitkey][Scroll]saggi posero il sigillo, quasi[Scroll]tutti perirono combattendo[Scroll]contro i demoni.[Waitkey][Scroll]Da quella stirpe di Cavalieri[Scroll]dovrebbe nascere un eroe[...][Scroll][...] Bene, [Name], ho fiducia[Waitkey][Scroll]in te. Trova gli altri[Scroll]Amuleti. E prendi questo.[Scroll]E' un tesoro tramandato da[Waitkey][Scroll]noi discendenti dei saggi.[Scroll]Voglio che lo abbia tu.
+58: Proprio così, io sono[2]Sahasrahla, l'anziano del[3]villaggio e discendente dei[Waitkey][Scroll]Sette saggi. [...] Davvero?[Scroll][Name], mi stupisce che un[Scroll]giovane come te cerchi la[Waitkey][Scroll]spada che scaccia il male.[Scroll]Non tutti possono impugnarla.[Scroll]Una leggenda narra che solo[Waitkey][Scroll]l'Eroe che sconfiggerà tre[Scroll]grandi mostri e otterrà i tre[Scroll]Amuleti ne diverrà padrone.[Waitkey][Scroll]Ah, vedo che hai già[Scroll]l'Amuleto del Coraggio.[Scroll]Allora lascia che ti racconti[Waitkey][Scroll]una storia. Tanto tempo fa,[Scroll]una stirpe di guerrieri[Scroll]proteggeva il Regno di Hylia.[Waitkey][Scroll]Erano i Cavalieri, custodi[Scroll]dell'Amuleto del Coraggio.[Scroll]Quando i Sette saggi posero[Waitkey][Scroll]il sigillo, quasi tutti[Scroll]perirono combattendo[Scroll]contro i demoni.[Waitkey][Scroll]Ma si dice che dai loro[Scroll]discendenti nascerà un Eroe.[Scroll][...] Capisco. Devi essere tu[Waitkey][Scroll]quell'Eroe. Va' a prendere[Scroll]gli altri Amuleti. E prendi[Scroll]anche questo. E' un tesoro[Waitkey][Scroll]tramandato da generazioni[Scroll]nella mia famiglia.
 59: Darò 100 Rupie a chi troverà[2]le discendenti dei Sette saggi.[3]                    IL RE
 60:   [LinkL][LinkR]  RICERCATO! Ha rapito[2]la Principessa Zelda dal[3]castello. Se lo vedi, grida!
 61:      PERICOLO![2]Vietato salire sul Monte Morte[3]senza autorizzazione!
 62: Da questa parte per il[2]     Bosco Perduto
 63:            PERICOLO![2]Occhio ad acqua alta e Zora!
-64: Benvenuto alla Bottega magica.[2]La Cascata dei Desideri è[3]poco più avanti.
+64: Benvenuto alla Bottega Magica.[2]La Cascata dei Desideri è[3]poco più avanti.
 65: Questa grotta porta al sentiero[2]per tornare a Calbarico.
 66: Di qui [Down][2]         Lago Hylia[3]         Negozio
 67: Di qui [Left][2]         Villaggio Calbarico
 68: Di qui [Left][2]         Deserto Mistero
-69: Di qui [Up] [Right][2]         Bottega magica[3]         Cascata dei Desideri
+69: Di qui [Up] [Right][2]         Bottega Magica[3]         Cascata dei Desideri
 70: Di qui [Right] Palazzo dell'Est[3]Di qui [Left] Castello di Hyrule
 71: [2]        Lago Hylia
 72: Non disturbatevi a parlarmi.[2]Sono solo un eccentrico uomo[3]di mezza età.[Waitkey][Scroll]P.S. Per favore, non rubate[Scroll]questo cartello.
@@ -83,7 +83,7 @@
 83: Ecco il Boomerang! Sceglilo[2]con il pulsante Start e[3]prova a usarlo!
 84: Hai trovato l'Arco! Ora puoi[2]tirare frecce[...] finché non[3]le finisci!
 85: Ti hanno prestato la Pala![2]Dove il terreno lo permette[3]puoi scavare. Prova!
-86: Ecco il Mantello Magico! Ti[2]rende invisibile, ma attento[3]alla tua Magia!
+86: Ecco il Mantello Magico! Ti[2]rende invisibile, ma attento[3]alla Barra della Magia!
 87: Questa è la Polvere Magica![2]Prova a spargerla sui nemici[3]e su tante altre cose!
 88: Hai comprato le Pinne di[2]Zora! Ora potrai nuotare[3]senza fatica anche in acque[Waitkey][Scroll]profonde!
 89: Hai preso i Guanti della[2]Forza! Senti la forza in[3]entrambe le braccia. Ora puoi[Waitkey][Scroll]sollevare anche le pietre!
@@ -95,11 +95,11 @@
 95: Hai trovato la Perla Lunare![2]Protegge l'Eroe dal potere[3]della Triforza usato dai[Waitkey][Scroll]malvagi e gli impedisce di[Scroll]cambiare aspetto.
 96: Hai trovato la Bussola![2]Ora sai di sicuro dove si[3]trova il boss!
 97: Hai preso la Mappa! Premi il[2]pulsante [X] per vedere dove[3]ti trovi e tutto il labirinto!
-98: Hai la Bacchetta del Ghiaccio![2]Un gelo pungente squarcia[3]l'aria. Attento alla Magia!
-99: Hai la Bacchetta del Fuoco![2]Ne sgorgano fiamme scarlatte.[3]Attento alla Magia!
-100: Ecco il Medaglione dell'Etere![2]Una magia che domina l'aria[3]e il gelo. Attento alla Magia!
-101: Ecco il Medaglione della[2]Fiamma! Una magia che fa[3]correre esplosioni sul[Waitkey][Scroll]terreno. Attento alla Magia!
-102: Ecco il Medaglione Sisma![2]Fa tremare la terra e[3]blocca i nemici. Ma attento[Waitkey][Scroll]alla Magia!
+98: Hai la Bacchetta del Ghiaccio![2]Un gelo pungente squarcia[3]l'aria.[Waitkey][Scroll]Attento alla Barra della Magia!
+99: Hai la Bacchetta del Fuoco![2]Ne sgorgano fiamme scarlatte.[3]Attento alla Barra della Magia!
+100: Ecco il Medaglione dell'Etere![2]Una magia che domina l'aria[3]e il gelo.[Waitkey][Scroll]Attento alla Barra della Magia!
+101: Ecco il Medaglione della[2]Fiamma! Una magia che fa[3]correre esplosioni sul[Waitkey][Scroll]terreno. Attento alla Barra[Scroll]della Magia!
+102: Ecco il Medaglione Sisma![2]Fa tremare la terra e[3]blocca i nemici. Ma attento[Waitkey][Scroll]alla Barra della Magia!
 103: Hai preso il Martello Magico![2]Pianta i pioli, bam bam! E[3]dai colpi a tutto il resto,[Waitkey][Scroll]bam bam bam!
 104: Oh, ecco l'Ocarina! Il suo[2]suono deve avere un potere[3]misterioso!
 105: Hai preso il Bastone di[2]Somaria! Se lo usi bene, è[3]un bastone misterioso molto[Waitkey][Scroll]utile!
@@ -121,7 +121,7 @@
 121: Hai trovato lo Scudo[2]Specchio! Ora puoi respingere[3]anche i raggi che il vecchio[Waitkey][Scroll]scudo non fermava!
 122: Hai preso il Bastone di[2]Byrna! Basta agitarlo e un[3]anello di luce ti proteggerà.
 123: Eh?  E' chiuso a chiave![2]Se avessi la Grande Chiave,[3]forse potresti aprirlo!
-124: Non hai abbastanza Magia![2]Ora non puoi usare l'oggetto.[3]Controlla la tua Magia!
+124: Non hai abbastanza Energia[2]Magica per usare l'oggetto![3]Controlla la Barra della Magia.
 125: Hai ricevuto i Calzari di[2]Pegaso! Tieni premuto per un[3]po' il pulsante [A] e potrai[Waitkey][Scroll]lanciarti in uno scatto!
 126: Cosa? Incredibile! Non incontro[2]una persona normale da[3]centinaia di anni![Waitkey][Scroll]Che voglia di fare due[Scroll]chiacchiere. Senti questa[...]
 127: Riguarda la statua del[2]Gargoyle in questo villaggio.[3]Dicono che da sotto si senta[Waitkey][Scroll]appena una ragazza chiedere[Scroll]aiuto. Mah, a me pare una[Scroll]storia poco credibile[...]
@@ -168,14 +168,14 @@
 168: Se hai tempo per leggere[2]questo cartello, dovresti[3]andare subito al traguardo!
 169: Darò un Frammento di Cuore[2]a chi indossa il Mantello.
 170: Sventura a chi getta[2]qualcosa in questo stagno!
-171: Di qua [Up] Bosco d'Ossa[3]Di qua [Down] Villaggio dei Reietti
+171: Di qua [Up] Foresta d'Ossa[3]Di qua [Down] Villaggio dei Reietti
 172: [2]Di qua [Right] Grotta
 173: [2]Di qua [Right] Palazzo Cupo
-174: [2]Di qua [Left] Negozio di Bombe
-175: [Left]  Palude del Male[2]         Nessun ingresso[3]         Nessuna uscita
+174: [2]Di qua [Left] Bottega delle Bombe
+175: [Left]  Malapalude[2]         Nessun ingresso[3]         Nessuna uscita
 176: Questo è il Villaggio dei Reietti.[2]Chi non ha Rupie non è[3]il benvenuto qui.
 177: La Cascata dei Desideri è[2]appena dietro l'angolo.
-178: Di qua [Right][Up][2]Lago del Cattivo Presagio
+178: Di qua [Right][Up][2]Lago del Cattivo Auspicio
 179: Uff, da quando è arrivato il[2]sacerdote Agahnim, sono[3]tutti strani. Finirò così[Waitkey][Scroll]anch'io?
 180: Ehi, ehi! Al castello non si[2]entra! I bambini devono[3]tornare a casa a dormire!
 181: [Window 02][Name], sono io, l'anziano[2]Sahasrahla. Ti darò un[3]consiglio. Il tesoro di questo[Waitkey][Scroll]palazzo può abbattere anche i[Scroll]mostri con l'armatura più[Scroll]dura. Trovalo a ogni costo.
@@ -235,7 +235,7 @@
 235: [Position 01]Hocus pocus![2]Troverai l'anziano[3]Sahasrahla[...]
 236: [Position 01]Abracadabra alakazam![2]Trova il Libro di Mudora al[3]villaggio e portalo nel[Waitkey][Scroll]deserto.
 237: [Position 01]Hocus pocus![2]Un discendente dei Sette[3]saggi vive nel deserto.
-238: [Position 01]Abracadabra alakazam![2]Trova un fungo nel bosco e[3]portalo alla Bottega magica.
+238: [Position 01]Abracadabra alakazam![2]Trova un fungo nel bosco e[3]portalo alla Bottega Magica.
 239: [Position 01]Hocus pocus![2]Risali il fiume e troverai[3]un lago pieno di Zora.
 240: [Position 01]Abracadabra alakazam![2]Cerca la Perla Lunare nella[3]torre sulla montagna.
 241: [Position 01]Hocus pocus![2]Il corpo del sacerdote non può[3]essere ferito, nemmeno dalla[Waitkey][Scroll]Spada Suprema.
@@ -248,7 +248,7 @@
 248: [Position 01]Abracadabra alakazam![2]Per i tesori, parla con chi[3]vende chiacchiere nelle[Waitkey][Scroll]grotte del Mondo delle Tenebre.
 249: [Position 01]Hocus pocus![2]Il compagno del fabbro si[3]trova nel Villaggio dei[Waitkey][Scroll]Reietti.
 250: [Position 01]Abracadabra alakazam![2]Un tesoro riposa nel cimitero[3]del Mondo della Luce.
-251: [Position 01]Hocus pocus![2]Comprerai un nuovo tipo di[3]bomba al Negozio di Bombe.
+251: [Position 01]Hocus pocus![2]Comprerai un nuovo tipo di[3]bomba alla Bottega delle Bombe.
 252: [Position 01]Abracadabra alakazam![2]Nella Piramide del Mondo delle[3]Tenebre troverai un segreto.
 253: [Position 01]Hocus pocus![2]Una barriera protegge la Torre[3]di Ganon sul Monte Morte.
 254: [Position 01]Abracadabra alakazam![2]Per finire Ganon ti serviranno[3]le Frecce d'Argento.
@@ -306,7 +306,7 @@
 306: Ehi [Name], vieni dalla[2]stanza del mio fratellone?[3]E' ancora arrabbiato?
 307: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll][...] Anche questo mondo un[Scroll]tempo era la Terra d'Oro,[Scroll]dove si trovava la Triforza.[Waitkey][Scroll]Ma il desiderio malvagio[Scroll]dell'uomo che l'ha presa,[Scroll]Ganon, il capo dei ladri,[Waitkey][Scroll]l'ha ridotto così[...][Scroll]Pare che, accumulato potere,[Scroll]voglia dominare anche il[Waitkey][Scroll]nostro Mondo della Luce.[Scroll]Usando come chiavi noi sette[Scroll]fanciulle, eredi del potere[Waitkey][Scroll]dei saggi, vuole spezzare il[Scroll]sigillo e aprire un varco più[Scroll]grande vicino al castello.[Waitkey][Scroll]Ma quel varco non è ancora[Scroll]del tutto aperto. Siamo[Scroll]ancora in tempo. Se noi sette[Waitkey][Scroll]saremo riunite, la barriera[Scroll]che nasconde Ganon cadrà.[Scroll]Col mio potere ti indicherò[Waitkey][Scroll]dove sono le altre fanciulle.[Scroll]Credo che sconfiggerai Ganon.[Scroll]Allora anche noi torneremo[Waitkey][Scroll]come prima. [...] [...] [...][Sound 45]
 308: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll][...] La Triforza esaudisce[Scroll]il desiderio di chi la tocca,[Scroll]finché quella persona vive[...][Waitkey][Scroll]Per questo fu custodita nella[Scroll]Terra d'Oro e solo pochi[Scroll]eletti ne conoscevano il[Waitkey][Scroll]luogo. Ma a un certo punto[Scroll]quel sapere andò perduto[...][Scroll]E chi ritrovò la Terra d'Oro[Waitkey][Scroll]fu un ladro di nome[Scroll]Ganondorf. Per fortuna, però,[Scroll]non sapeva come tornare nel[Waitkey][Scroll]Mondo della Luce[...][Scroll]Ricorda, tu hai lo Specchio[Scroll]Magico, che solo l'Eroe sa[Waitkey][Scroll]usare! Oltre al varco sul[Scroll]Monte Morte ce ne sono altri.[Scroll]Con lo specchio puoi passare[Waitkey][Scroll]da un mondo all'altro e[Scroll]scovare i mostri nascosti[Scroll]nel Mondo delle Tenebre![Waitkey][Scroll]Il ladro Ganondorf[...] anzi,[Scroll]Ganon, il malvagio Re delle[Scroll]Tenebre, solo tu puoi[Waitkey][Scroll]sconfiggerlo[...] Prego per te.
-309: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll][...] Conosci la profezia[Scroll]del Grande Cataclisma? Io[Scroll]l'ho sentita così[...][Waitkey][Scroll]Se un essere dal cuore[Scroll]malvagio otterrà la Triforza,[Scroll]apparirà di certo un Eroe[Waitkey][Scroll]che abbatterà colui che è[Scroll]l'origine del Grande[Scroll]Cataclisma. Ma se l'Eroe[Waitkey][Scroll]cadrà, il mondo finirà nelle[Scroll]mani del malvagio[...][Scroll]Sì, solo chi discende dai[Waitkey][Scroll]Cavalieri, che proteggevano[Scroll]la famiglia reale di Hyrule,[Scroll]può diventare l'Eroe[...] E[Waitkey][Scroll]quel sangue scorre in te.[Scroll]Salva la Principessa Zelda,[Scroll]mi raccomando.
+309: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll][...] Conosci la profezia[Scroll]del Grande Cataclisma? Io[Scroll]l'ho sentita così[...][Waitkey][Scroll]Se un essere dal cuore[Scroll]malvagio otterrà la Triforza,[Scroll]apparirà di certo un Eroe[Waitkey][Scroll]che abbatterà colui che è[Scroll]l'origine del Grande[Scroll]Cataclisma. Ma se l'Eroe[Waitkey][Scroll]cadrà, il mondo finirà nelle[Scroll]mani del malvagio[...][Scroll]Sì, solo chi discende dai[Waitkey][Scroll]Cavalieri, che proteggevano[Scroll]il Regno di Hylia,[Scroll]può diventare l'Eroe[...] E[Waitkey][Scroll]quel sangue scorre in te.[Scroll]Salva la Principessa Zelda,[Scroll]mi raccomando.
 310: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll]Quando i Sette saggi[Scroll]sigillarono il passaggio per[Scroll]il Mondo delle Tenebre, a[Waitkey][Scroll]difenderli dagli attacchi[Scroll]dei demoni furono i[Scroll]Cavalieri. Ho sentito che in[Waitkey][Scroll]quella battaglia la loro[Scroll]stirpe si estinse quasi del[Scroll]tutto[...] Forse tu sei[Waitkey][Scroll]l'ultimo ad avere il sangue[Scroll]dei Cavalieri[...] Che strano[Scroll]che proprio l'ultimo celi[Waitkey][Scroll]il potere di diventare[Scroll]l'Eroe. Tu di certo[Scroll]sconfiggerai Ganon! Che la[Waitkey][Scroll]via dell'Eroe ti conduca[Scroll]fino alla Triforza.
 311: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll]Si dice che il popolo di[Scroll]Hylia sapesse usare poteri[Scroll]misteriosi, come i Sette[Waitkey][Scroll]saggi. Ma col passare degli[Scroll]anni il sangue degli Hylia[Scroll]si è affievolito, e anche[Waitkey][Scroll]noi discendenti dei saggi[Scroll]non abbiamo più un grande[Scroll]potere. Ma con la forza dei[Waitkey][Scroll]Cavalieri, custodi del[Scroll]coraggio, il potere dei[Scroll]saggi, custodi della[Waitkey][Scroll]saggezza, crescerà! Manca[Scroll]poco prima che il varco[Scroll]fra Luce e Tenebre aperto[Waitkey][Scroll]al castello si spalanchi del[Scroll]tutto. Se sconfiggerai Ganon,[Scroll]questo mondo svanirà e la[Waitkey][Scroll]Triforza attenderà di nuovo[Scroll]il suo prossimo possessore.[Scroll]Credo in te[...] Forza[...]
 312: [Speed 02][Position 01][Window 02][Name], grazie a te sono[2]sfuggita dalle mani dei[3]demoni. Grazie[...][Waitkey][Scroll]Ganon ci ha radunate perché[Scroll]con il suo solo potere non[Scroll]poteva spezzare il sigillo[Waitkey][Scroll]dei Sette saggi. Così, per[Scroll]mezzo del sacerdote Agahnim,[Scroll]ha fatto portare nel Mondo[Waitkey][Scroll]delle Tenebre noi sette[Scroll]fanciulle eredi dei saggi.[Scroll]Spezzato il sigillo col[Waitkey][Scroll]nostro potere, non gli[Scroll]servivamo più. Ci ha chiuse[Scroll]nei Cristalli e affidate ai[Waitkey][Scroll]mostri. Ma non sapere di te[Scroll]è stato il suo errore. Ora[Scroll]la Principessa Zelda ti[Waitkey][Scroll]aspetta nella Rocca[Scroll]Tartaruga. Corri da lei!
