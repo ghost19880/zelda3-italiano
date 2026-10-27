@@ -395,3 +395,4 @@
 395: Pare che il tempo sia scaduto.[2]Torna ancora!
 396: Torna ancora![2]Ti aspetterò.
 397: Non entro nei dettagli, ma[2]ora non è un buon momento.[3]Torna più tardi. Scusa.
+398: Ih ih, grazie! Questa è una[2]medicina molto efficace. Ne do[3]solo una al giorno, ma ridà[Waitkey][Scroll]energia e Magia, e fa caricare[Scroll]più in fretta la spada.

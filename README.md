@@ -4,6 +4,8 @@ Traduzione amatoriale in italiano dei dialoghi di *The Legend of Zelda: A Link t
 
 I nomi seguono la terminologia ufficiale italiana raccolta su [Zelda Wiki](https://zeldawiki.wiki) (Amuleti, Calzari di Pegaso, Palazzo Cupo, Rocca Tartaruga…), con l'eccezione voluta di *Villaggio Calbarico*.
 
+I dialoghi sono tradotti dal testo giapponese originale. Il messaggio 398 è nuovo: compare quando compri la pozione d'oro nella bottega della strega (opzione *Pozione d'oro* di Zelda3 HD).
+
 ## Uso
 
 Non serve fare niente a mano: il [launcher](https://github.com/ghost19880/Zelda-3-Launcher) scarica `dialogue_it.txt` quando nelle impostazioni scegli **Italian** e prepara da solo il font con le lettere accentate.
