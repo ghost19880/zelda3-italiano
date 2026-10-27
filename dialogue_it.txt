@@ -110,7 +110,7 @@
 110: Hai i Bracciali del Titano![2]Ora puoi sollevare anche le[3]pietre nere, prima troppo[Waitkey][Scroll]pesanti!
 111: Hai ricevuto lo Specchio[2]Magico! Uno specchio azzurro,[3]limpido e bellissimo[...][Waitkey][Scroll]Ti sembra che possa[Scroll]risucchiarti dentro[...]
 112: Ecco!  La Spada Suprema![2][...]  [...]  [...][3]No, non è questa[...] Peccato.
-113: [Window 02][Speed 03]Da qualche parte risuona[2]la voce dell'anziano[3]Sahasrahla[...] [...] [...][Waitkey][Scroll][Name], hai ottenuto la[Scroll]Spada Suprema, che scaccia[Scroll]il male. Il suo splendore è[Waitkey][Scroll]la tua stessa forza. Con[Scroll]quella spada potrai spezzare[Scroll]la magia del sacerdote![Waitkey][Scroll]Il destino del regno è nelle[Scroll]tue mani. Conto su di te,[Scroll][Name][...]
+113: [Window 02][Speed 03]Da qualche parte risuona[2]la voce dell'anziano[3]Sahasrahla[...] [...] [...][Waitkey][Scroll][Name], hai ottenuto la[Scroll]Spada Suprema, la spada che[Scroll]scaccia il male. Il suo[Waitkey][Scroll]splendore è la tua stessa[Scroll]forza. Con quella spada[Scroll]potrai spezzare la magia[Waitkey][Scroll]del sacerdote! Il destino[Scroll]del regno è nelle tue mani.[Scroll]Conto su di te, [Name][...]
 114: Eh eh! Ottimo. Questa è la[2]Pozione Vita. Bevila per[3]recuperare energia.
 115: Eh eh! Ottimo. Questa è la[2]Pozione Magica. Bevila per[3]recuperare la Magia.
 116: Eh eh! Ottimo. Questa è la[2]Pozione Curatutto. Bevila per[3]recuperare energia e Magia.
