@@ -388,7 +388,7 @@
 388: Grazie della visita.[2]Dev'essere stata dura[3]arrivare fin qui. Lascia che[Waitkey][Scroll]te lo dica forte e chiaro,[Scroll]GRAZIE! A proposito, un tempo[Scroll]qui c'era un ragazzo che[Waitkey][Scroll]parlava agli animali con[Scroll]l'ocarina. Aveva perfino un[Scroll]uccello che lo portava in giro[Waitkey][Scroll]per tutto il regno. Quella[Scroll]ocarina deve avere un potere[Scroll]misterioso.
 389: [Position 00][Speed 00]>Inizia da casa di [Name][2]  Inizia dal Santuario[Choose2]
 390: [Position 00][Speed 00]>Inizia da casa di [Name][2]  Inizia dal Santuario[3]  Inizia dalla grotta del monte[Choose3]
-391: [Speed 00]> Continua[2]   Salva ed esci[Choose2]
+391: [Speed 00]> Continua il gioco[2]   Salva ed esci[Choose2]
 392: Benvenuto al campo tesori.[2]Scava quanto vuoi per 30[3]secondi di fila. I tesori che[Waitkey][Scroll]trovi sono tuoi![Waitkey][Scroll]Che ne dici, per 80 Rupie?[Scroll]    > Voglio scavare[Scroll]       Non voglio scavare[Choose]
 393: Allora ti presto una Pala.[2]Quando sei pronto, premi il[3]pulsante [Y] per scavare!
 394: Capisco. Allora non insisto.[2]Torna quando avrai abbastanza[3]Rupie.
